@@ -24,11 +24,11 @@ The code is organized topic by topic, from basics to more advanced concepts:
 
 ```
 python-full-course/
-├── week1/
-├── week2/
+├── Chapter1/
+├── Chapter2/
 ├── ...
-├── README.md
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ## How to Run
