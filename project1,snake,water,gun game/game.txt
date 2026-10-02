@@ -1,0 +1,11 @@
+we all have played snake,water gun game in our childhood. 
+if you havent, google the rules of this game and write a python 
+program capable of playing this game with the user.
+####################################################
+
+so main.py file mai apne sare game codes honge to chalo dekhte hain
+ke kese banti hai ye game main koshish karon ga apko sab kuch samjhaa saku
+and easy steps ma to chalo lets began
+
+NOTE: jab bhi hum koi project banate hain to main.py name se file bana kar
+osme codes likhte hain 
